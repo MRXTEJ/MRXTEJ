@@ -31,20 +31,80 @@ fun_fact: "I can find vulnerabilities faster than you can say 'SQL Injection'!"
 currently_learning: ["Penetration Testing", "Malware Analysis", "Threat Intelligence", "Next.js", "TypeScript"]
 hobbies: ["Security Research", "Coding", "CTFs", "Bug Bounty Hunting"]
 ```
-<!-- Hacker Animation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="600" alt="Hacking Animation">
-</p>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Snake Game</title>
+  <style>
+    body { background: black; display: flex; justify-content: center; }
+    canvas { background: #111; border: 2px solid lime; }
+  </style>
+</head>
+<body>
+  <canvas id="game" width="400" height="400"></canvas>
+  <script>
+    const canvas = document.getElementById("game");
+    const ctx = canvas.getContext("2d");
 
-<p align="center" style="font-family: monospace; color: #00FF00; font-size: 18px;">
-  <b>INITIALIZING CYBER MISSION...</b><br>
-  <b>SCANNING TARGETS [■■■■■■■■■■] 100%</b><br>
-  <b>BREACH SUCCESSFUL — ACCESS GRANTED ✅</b>
-</p>
+    const box = 20;
+    let snake = [{ x: 9 * box, y: 10 * box }];
+    let direction;
+    let food = {
+      x: Math.floor(Math.random() * 19) * box,
+      y: Math.floor(Math.random() * 19) * box
+    };
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Matrix Rain">
-</p>
+    document.addEventListener("keydown", e => {
+      if (e.keyCode === 37 && direction !== "RIGHT") direction = "LEFT";
+      else if (e.keyCode === 38 && direction !== "DOWN") direction = "UP";
+      else if (e.keyCode === 39 && direction !== "LEFT") direction = "RIGHT";
+      else if (e.keyCode === 40 && direction !== "UP") direction = "DOWN";
+    });
+
+    function draw() {
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      snake.forEach(s => {
+        ctx.fillStyle = "lime";
+        ctx.fillRect(s.x, s.y, box, box);
+      });
+      ctx.fillStyle = "red";
+      ctx.fillRect(food.x, food.y, box, box);
+
+      let snakeX = snake[0].x;
+      let snakeY = snake[0].y;
+
+      if (direction === "LEFT") snakeX -= box;
+      if (direction === "UP") snakeY -= box;
+      if (direction === "RIGHT") snakeX += box;
+      if (direction === "DOWN") snakeY += box;
+
+      if (snakeX === food.x && snakeY === food.y) {
+        food = {
+          x: Math.floor(Math.random() * 19) * box,
+          y: Math.floor(Math.random() * 19) * box
+        };
+      } else {
+        snake.pop();
+      }
+
+      const newHead = { x: snakeX, y: snakeY };
+
+      if (
+        snakeX < 0 || snakeX >= canvas.width ||
+        snakeY < 0 || snakeY >= canvas.height ||
+        snake.some(s => s.x === newHead.x && s.y === newHead.y)
+      ) {
+        clearInterval(game);
+        alert("Game Over!");
+      }
+
+      snake.unshift(newHead);
+    }
+
+    let game = setInterval(draw, 100);
+  </script>
+</body>
+</html>
 
 
 
