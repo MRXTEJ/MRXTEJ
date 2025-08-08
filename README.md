@@ -130,9 +130,9 @@ hobbies: ["Security Research", "Coding", "CTFs", "Bug Bounty Hunting"]
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MRXTEJ/MRXTEJ/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MRXTEJ/MRXTEJ/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MRXTEJ/MRXTEJ/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smirk-dev/smirk-dev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/smirk-dev/smirk-dev/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/smirk-dev/smirk-dev/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
