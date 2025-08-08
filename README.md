@@ -31,9 +31,11 @@ fun_fact: "I can find vulnerabilities faster than you can say 'SQL Injection'!"
 currently_learning: ["Penetration Testing", "Malware Analysis", "Threat Intelligence", "Next.js", "TypeScript"]
 hobbies: ["Security Research", "Coding", "CTFs", "Bug Bounty Hunting"]
 ```
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300" style="max-width: 100%; height: auto;">
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/SaI4sDVGQyCNi/giphy.gif" width="40" />
+  <span style="font-size: 24px; letter-spacing: 6px;">••••••••••••••••••••••••••••••••••</span>
+</p>
+
 
 
 ## 🌐 Socials:
