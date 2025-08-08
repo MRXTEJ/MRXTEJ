@@ -31,7 +31,10 @@ fun_fact: "I can find vulnerabilities faster than you can say 'SQL Injection'!"
 currently_learning: ["Penetration Testing", "Malware Analysis", "Threat Intelligence", "Next.js", "TypeScript"]
 hobbies: ["Security Research", "Coding", "CTFs", "Bug Bounty Hunting"]
 ```
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300" style="max-width: 100%; height: auto;">
+</div>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_mr.x_tej?igsh=MW9pb2xkbzk4ZXdjdA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vikash-tripathi80) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/mr_x_tej?t=RO8pvjFYRnKHQJqEZJ18oA&s=09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vikashtripathi63977@gmail.com) 
