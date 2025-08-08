@@ -111,3 +111,67 @@ hobbies: ["Security Research", "Coding", "CTFs", "Bug Bounty Hunting"]
 [![](https://visitcount.itsvg.in/api?id=MRXTEJ&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MRXTEJ&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MRXTEJ&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MRXTEJ&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MRXTEJ&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=MRXTEJ&icon=0&color=0)](https://visitcount.itsvg.in)
+---
+
+## 📈 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MRXTEJ/MRXTEJ/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MRXTEJ/MRXTEJ/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MRXTEJ/MRXTEJ/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
+
+## 🎯 Current Focus
+<div align="center">
+
+```mermaid
+mindmap
+  root((Vikash Singh))
+    Development
+      Full Stack Development
+        MERN Stack
+        Java
+        Python
+        REST APIs
+      Cybersecurity
+        Network Security
+        Penetration Testing
+        Ethical Hacking
+    Cloud & Databases
+      Google Cloud
+      Firebase
+      MongoDB
+      PostgreSQL
+    Design
+      UI/UX
+      Responsive Web Design
+    Tools & Platforms
+      Git & GitHub
+      Postman
+      VS Code
+    Interests
+      Cybersecurity Research
+      SaaS Projects
+      IoT & Data Analytics
+
