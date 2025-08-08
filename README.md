@@ -174,4 +174,20 @@ mindmap
       Cybersecurity Research
       SaaS Projects
       IoT & Data Analytics
+```
+### 🚶‍♂️ Profile Visitors
+
+<img src="https://komarev.com/ghpvc/?username=smirk-dev&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
+
+### 💬 Let's Connect and Build Something Amazing Together!
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=75"/>
+</div>
 
