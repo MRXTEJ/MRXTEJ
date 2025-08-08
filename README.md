@@ -31,9 +31,19 @@ fun_fact: "I can find vulnerabilities faster than you can say 'SQL Injection'!"
 currently_learning: ["Penetration Testing", "Malware Analysis", "Threat Intelligence", "Next.js", "TypeScript"]
 hobbies: ["Security Research", "Coding", "CTFs", "Bug Bounty Hunting"]
 ```
+<!-- Hacker Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/SaI4sDVGQyCNi/giphy.gif" width="40" />
-  <span style="font-size: 24px; letter-spacing: 6px;">••••••••••••••••••••••••••••••••••</span>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="600" alt="Hacking Animation">
+</p>
+
+<p align="center" style="font-family: monospace; color: #00FF00; font-size: 18px;">
+  <b>INITIALIZING CYBER MISSION...</b><br>
+  <b>SCANNING TARGETS [■■■■■■■■■■] 100%</b><br>
+  <b>BREACH SUCCESSFUL — ACCESS GRANTED ✅</b>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Matrix Rain">
 </p>
 
 
